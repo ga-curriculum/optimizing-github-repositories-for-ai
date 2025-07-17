@@ -1,20 +1,16 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Optimizing Github Repos for AI</span>
 </h1>
 
-## About
-
-tktk Write a short but descriptive summary of the content in this module.
+This module provides resources and guidance for both facilitators and participants to optimize GitHub repositories for AI projects. It covers setup, key concepts, best practices, and supporting materials for effective learning and facilitation.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
+| [Participant Guide](./participant-guide/README.md)   | -- | Hands-on activities, repository setup, collaboration |
+| [Facilitator Guide](./facilitatior-guide/README.md)  | -- | Facilitation tips, lesson plans, assessment strategies |
 | **Total content**                                   | -- |                                     |
 
 ## References
